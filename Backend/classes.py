@@ -1,3 +1,4 @@
+# IGNORE THIS FILE
 def null_func():
     return
 class ModInfo():
