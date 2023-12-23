@@ -13,5 +13,6 @@ class Modsclass:
     
     def notitle(self):
         cmd(f"TITLE ‎")
+    # put mod functions here
         
 Mods = Modsclass()
